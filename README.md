@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Blockchain project - CrossChain Model](https://github.com/anhkiet1227/NT215_Internship_Project)
 
-- 🌱 I’m currently learning **Information Security - Honor Program**
+- 🌱 I’m currently learning **Information Security - Honor Program - UIT**
 
 - 👨‍💻 All of my projects are available at [github.com/anhkiet1227](github.com/anhkiet1227)
-
-- 📝 I regularly write articles on [github.com/anhkiet1227](github.com/anhkiet1227)
 
 - 💬 Ask me about **Subject at UIT**
 
